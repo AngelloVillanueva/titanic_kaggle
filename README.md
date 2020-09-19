@@ -14,4 +14,4 @@ Las habilidades que yo pude practicar en este reto son los siguientes:
 - Matplotlib
 - Desarrollo de habilidad analítica
 
-![](https://github.com/AngelloVillanueva/titanic_kaggle/blob/master/imagenes/descargar%20(1).png?raw=true)
+![](https://github.com/AngelloVillanueva/titanic_kaggle/blob/master/imagenes/descargar%20(1).png?raw=true)![](https://github.com/AngelloVillanueva/titanic_kaggle/blob/master/imagenes/descargar%20(2).png?raw=true)![](https://github.com/AngelloVillanueva/titanic_kaggle/blob/master/imagenes/descargar%20(3).png?raw=true)
